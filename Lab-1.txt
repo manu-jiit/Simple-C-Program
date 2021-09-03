@@ -1,0 +1,10 @@
+#include <stdio.h>
+//using namespace std;
+int main() {
+    int n,m;
+	scanf("%d", &n);
+	scanf("%d", &m);
+	int sum = n + m;
+	    printf("Sum = %d", sum);
+	return 0;
+}
